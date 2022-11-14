@@ -1,0 +1,9 @@
+numpy
+torch
+jupyterlab
+matplotlib
+pandas
+plotly
+scipy
+sympy
+scipy
