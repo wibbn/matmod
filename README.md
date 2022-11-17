@@ -8,6 +8,6 @@
 
 | ФИО | Реализация | Ветка |
 | --- | ---------- | ----- |
-| Диман | Такая же, как и есть, но на чистом торче. Визуализация - plotly | [main_torch](https://github.com/wibbn/matmod/tree/main_torch) |
-| - | Такая же, как и есть (numpy) | [main_numpy](https://github.com/wibbn/matmod/tree/main_numpy) |
+| Диман | Реализация на numpy. Визуализация - plotly | [main_torch](https://github.com/wibbn/matmod/tree/main_torch) |
+| - | Реализация такая же, но на torch | [main_numpy](https://github.com/wibbn/matmod/tree/main_numpy) |
 | - | Переписанная на стандартные списки | [main_pure](https://github.com/wibbn/matmod/tree/main_pure) |
